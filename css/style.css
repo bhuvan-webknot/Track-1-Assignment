@@ -12061,8 +12061,9 @@ textarea.form-control {
   color: #000000;
 }
 
-#map {
+#ma {
   width: 100%;
+  background-image: url("https://undraw.co/search") !important;
 }
 @media (max-width: 991.98px) {
   #map {
